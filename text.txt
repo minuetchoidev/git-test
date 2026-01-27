@@ -1,4 +1,4 @@
 origin test
 2번째줄 입력 origin test
-3번재 흠.. origin feature/test1
+3번재 흠.. origin feature/test1 ->
 
